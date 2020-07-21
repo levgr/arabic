@@ -10,3 +10,6 @@ youglish
 
 
 https://youglish.com/arabic
+
+materials:
+https://langmedia.fivecolleges.edu/culturetalk/Arab-Levant
