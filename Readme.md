@@ -14,6 +14,9 @@ learn words
 
 https://www.coupleofwords.com
 
+Animation
+https://www.youtube.com/c/OurFamilyLifeJO
+
 materials:
 https://langmedia.fivecolleges.edu/culturetalk/Arab-Levant
 
